@@ -71,6 +71,6 @@ If you use our model, code, or dataset, please cite:
 @inproceedings{nechaev2024lanemarking,
   author = {Ilia Nechaev and Michael Georgiades and Kirill Krinkin},
   title = {Efficient Lane Marking Recognition for Duckietown for Varying Lighting Conditions},
-  year = {2024},
+  year = {2025},
 }
 ```
