@@ -68,7 +68,7 @@ The developed CNN achieves:
 ## Citation
 If you use our model, code, or dataset, please cite:
 ```bibtex
-@inproceedings{nechaev2024lanemarking,
+@inproceedings{nechaev2025lanemarking,
   author = {Ilia Nechaev and Michael Georgiades and Kirill Krinkin},
   title = {Efficient Lane Marking Recognition for Duckietown for Varying Lighting Conditions},
   year = {2025},
